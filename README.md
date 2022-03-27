@@ -10,7 +10,7 @@
 <div>
 <h2 align="center">About me (~˘▾˘)~</h2>
 <li>
-<b>Name:</b> Nguyen Vu</li>
+<b>Name:</b> Noobdev</li>
 <li>
 <b>Hobbies:</b> Gaming, Coding, anime
 </li>
@@ -23,7 +23,7 @@
 <br>
 
 <div>
-<img src="https://media2.giphy.com/media/7hW7hXXri33NK/giphy.gif" align="right">
+<a href="https://app.daily.dev/thanhhunq2k" align="right"><img src="https://api.daily.dev/devcards/b3025d7419634b7587b60ab65fac9c5c.png?r=qwp" width="400" alt="The Bigger's Dev Card"/></a>
 <h2 align="center">Knowledge ᕦ(ò_óˇ)ᕤ</h2>
 <p>
 </div>
@@ -34,7 +34,7 @@
 <br>
 <h2 align="center">Contact me (>人<)</h2>
 <br>
-<p align="center"><a href="https://www.facebook.com/nguyenvuzxc1" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/VuNguyen%235055%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.facebook.com/nthanhhung2k/" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
