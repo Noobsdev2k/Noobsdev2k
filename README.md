@@ -4,7 +4,7 @@
 <h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
 <br>
 <div align="center">
-<img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
+<img src="https://media.giphy.com/media/rPQaG7o8uqMzS/giphy.gif">
 </div>
 <br>
 <div>
@@ -40,7 +40,8 @@
 <div>
 <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 <div align="center">
-<img src="https://media.giphy.com/media/rPQaG7o8uqMzS/giphy.gif">
+
+  <img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
 </div>
 <hr>
 </div>
