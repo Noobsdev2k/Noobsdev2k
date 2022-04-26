@@ -40,7 +40,6 @@
 <div>
 <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 <div align="center">
-
   <img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
 </div>
 <hr>
