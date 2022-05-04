@@ -4,7 +4,7 @@
 <h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
 <br>
 <div align="center">
-<img src="https://media.giphy.com/media/rPQaG7o8uqMzS/giphy.gif">
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/11OlEyIaGC6Jsk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/k-saitama-11OlEyIaGC6Jsk">via GIPHY</a></p>
 </div>
 <br>
 <div>
