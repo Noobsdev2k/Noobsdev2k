@@ -4,8 +4,8 @@
 <h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
 <br>
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/11OlEyIaGC6Jsk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/k-saitama-11OlEyIaGC6Jsk">via GIPHY</a></p>
-</div>
+<img src="https://media4.giphy.com/media/8QtP5TqscKh3O/giphy.gif">
+
 <br>
 <div>
 <h2 align="center">About me (~˘▾˘)~</h2>
@@ -40,7 +40,7 @@
 <div>
 <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 <div align="center">
-  <img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
+  <img src="https://media4.giphy.com/media/11OlEyIaGC6Jsk/giphy.gif">
 </div>
 <hr>
 </div>
