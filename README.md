@@ -39,9 +39,9 @@
 <br>
 <div>
 <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
-<div align="center">
+
   <img src="https://media4.giphy.com/media/11OlEyIaGC6Jsk/giphy.gif">
-</div>
+
 <hr>
 </div>
 </div>
