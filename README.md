@@ -23,7 +23,7 @@
 <br>
 
 <div>
-<a href="https://app.daily.dev/thanhhunq2k"><img src="https://api.daily.dev/devcards/b3025d7419634b7587b60ab65fac9c5c.png?r=qwp" width="400" alt="The Bigger's Dev Card" align="right"/></a>
+<img src="https://api.daily.dev/devcards/b3025d7419634b7587b60ab65fac9c5c.png?r=1pz" width="400" alt="The Bigger's Dev Card"/></a>
 <h2 align="center">Knowledge ᕦ(ò_óˇ)ᕤ</h2>
 <p>
 </div>
