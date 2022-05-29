@@ -34,15 +34,18 @@
 <br>
 <h2 align="center">Contact me (>人<)</h2>
 <br>
-<p align="center"><a href="https://www.facebook.com/nthanhhung2k/" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a></p>
+<div>
+<p align="center">
+<a href="https://www.facebook.com/nthanhhung2k/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+</p>
 </div>
 <br>
 <div>
-<h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
+  <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 
   <img src="https://media4.giphy.com/media/11OlEyIaGC6Jsk/giphy.gif">
-
-<hr>
+<br>
 </div>
 
 </body>
