@@ -36,8 +36,8 @@
 <br>
 <div>
 <p align="center">
-<a href="https://www.facebook.com/nthanhhung2k/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://join.skype.com/invite/I7z1e8rVEWcM" target="_blank">
+<img src="https://img.shields.io/badge/Skype%20-%231DA1F2.svg?&style=for-the-badge&logo=Skype&logoColor=white"/></a>
 </p>
 </div>
 <br>
