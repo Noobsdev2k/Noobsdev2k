@@ -9,7 +9,7 @@
 <br>
 <div>
 <h2 align="center">About me (~˘▾˘)~</h2>
-  <li><b>Name:</b> Noobdev</li>
+  <li><b>Name:</b> Thanh Hung</li>
   <li><b>Hobbies:</b> Gaming, Coding, anime</li>
   <li><b>Sex:</b> Male </li>
   <li><b>Loves:</b> Web/Mobile Development.</li>
