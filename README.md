@@ -2,11 +2,7 @@
 
 <body>
 <h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
-<br>
-<div align="center">
-<img src="https://media4.giphy.com/media/8QtP5TqscKh3O/giphy.gif">
-</div>
-<br>
+</br>
 <div>
 <h2 align="center">About me (~˘▾˘)~</h2>
   <li><b>Name:</b> Thanh Hung</li>
